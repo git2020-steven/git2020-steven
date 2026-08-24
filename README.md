@@ -22,32 +22,24 @@
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/languages/php.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/languages/python.svg" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/languages/java.svg" /></a>
-<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/languages/solidity.svg" /></a>
 <a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/languages/golang.svg" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/languages/rust.svg" /></a>
 <br/><br/>
 
 ### Libraries
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/react.svg" /></a>
 <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/jquery.svg" /></a>
-<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/redux.svg" /></a>
 <a href="https://threejs.org/" target="_blank"><img align="left" alt="Three.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/three.js.svg" /></a>
-<a href="https://docs.web3js.org/" target="_blank"><img align="left" alt="Web3.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/web3.js.png" /></a>
-<a href="https://docs.ethers.org/v5/" target="_blank"><img align="left" alt="etherjs" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/etherjs.png" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/libraries/node.js.gif" /></a>
 <br/><br/>
 
 ### Frameworks
 
-<a href="https://hardhat.org/" target="_blank"><img align="left" alt="Hardhat" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/hardhat.svg" /></a>
-<a href="https://archive.trufflesuite.com/" target="_blank"><img align="left" alt="Truffle" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/truffle.png" /></a>
-<a href="https://cosmwasm.com/" target="_blank"><img align="left" alt="Cosmwasm" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/cosmwasm.jfif" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/django.svg" /></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/nextjs.svg" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/tailwindcss.svg" /></a>
 <a href="https://angular.dev/" target="_blank"><img align="left" alt="Angular" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/angular.gif" /></a>
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/vue.gif" /></a>
-<!-- <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/bootstrap.gif" /></a> -->
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/frameworks/bootstrap.gif" /></a>
 <br/><br/>
 
 ### Database
@@ -56,13 +48,41 @@
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/databases/mongoDB.gif" /></a>
 <br/><br/>
 
-### Tools
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/tools/Github.svg" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/tools/aws.svg" /></a>
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/tools/docker.svg" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/tools/kubernetes.svg" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/tools/jenkins.svg" /><br/></a>
-<br/><br/>
+<h2>
+  Tools
+</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://apify.com/" target="_blank"><img alt="Apify" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/apify.svg" /></a>
+        <br><h4>Apify</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.octoparse.com/" target="_blank"><img alt="Octoparse" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/octoparse.svg" /></a>
+        <br><h4>Octoparse</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/Github.gif" /></a>
+        <br><h4>GitHub</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/aws.svg" /></a>
+        <br><h4>AWS</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://kubernetes.io/" target="_blank"><img alt="Docker" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/docker.svg" /></a>
+        <br><h4>Docker</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.docker.com/" target="_blank"><img alt="Kubenetes" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/kubernetes.svg" /></a>
+        <br><h4>Kubenetes</h4>
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+  </tr>
+</table>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/others/colorful_line.gif"></a>
 
 <div style="display: flex; align-items: center">
