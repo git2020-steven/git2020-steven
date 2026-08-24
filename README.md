@@ -46,6 +46,10 @@
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/databases/postgres.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/databases/mysql.svg" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/git2020-steven/git2020-steven/auxiliary/databases/mongoDB.gif" /></a>
+
+<a href="https://redis.io/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/databases/Redis.svg" /></a>
+<a href="https://www.pinecone.io/" target="_blank"><img alt="Pinecone" width="50px" style="padding:10px;"  src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/databases/Pinecone.png" /></a>
+<a href="https://www.trychroma.com/" target="_blank"><img alt="ChromaDB" width="50px" style="padding:10px;"  src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/databases/ChromaDB.webp" /></a>
 <br/><br/>
 
 <h2>
